@@ -62,6 +62,7 @@
 
 	</dependencies>
 	<build>
+		<finalName>ROOT</finalName>
 		<plugins>
 			<!-- Package as an executable jar/war -->
 			<plugin>
